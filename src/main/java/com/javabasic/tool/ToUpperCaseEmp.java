@@ -1,6 +1,7 @@
 package com.javabasic.tool;
 
 public class ToUpperCaseEmp {
+    //字符串大小写转换的方法
     public static void main(String[] args){
         String str = "hello world";
         String strUpper = str.toUpperCase();
