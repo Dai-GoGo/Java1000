@@ -21,12 +21,11 @@ Maven+SpringBoot
 2.  xxxx
 3.  xxxx
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 版本更新日志
+1.  
+2.  
+3.  "ADD new file named 'notes' which saved those YuqueNotes;"-2022年7月27日
+4.  🔥ADD com.alogrithm.datastructure.arr数组套餐-2022年7月27日
 
 
 #### 特技
@@ -42,3 +41,4 @@ Maven+SpringBoot
 
 1. [接口](https://www.yuque.com/doon/vfam3a/ft7xgg)
 2. [构造器](https://www.yuque.com/doon/vfam3a/go6ff8)
+3. [数组](https://www.yuque.com/doon/vfam3a/dxbyfo)

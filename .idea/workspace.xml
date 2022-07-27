@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cb40b19-f57c-4011-835f-1ac0e8a7fbc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/GuessAnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/StaticArrBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversArraySimp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversStaticArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aligorithm/datastructure/arr/ArrayMax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aligorithm/datastructure/arr/GuessAnumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aligorithm/datastructure/arr/IndexArr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aligorithm/datastructure/arr/StaticArrBasic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aligorithm/datastructure/arr/TraversArraySimp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aligorithm/datastructure/arr/TraversStaticArr.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,47 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/ArrayMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversStaticArr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/StaticArrBasic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversArraySimp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/GuessAnumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="146">
+                <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -74,47 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/SortBubble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/RandSorttool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/CompareArr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/DynamicArr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="-113">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -136,18 +53,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/javabasic/tool/ToUpperCaseEmp.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/basic/Narcissistic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/basic/JudgeNarcissistic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/basic/Shuixian.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/ArrayMax.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversStaticArr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/StaticArrBasic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversArraySimp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/GuessAnumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/DynamicArr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/SortBubble.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/RandSorttool.java" />
       </list>
     </option>
   </component>
@@ -165,7 +70,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="568" />
+    <option name="x" value="259" />
     <option name="width" value="1890" />
     <option name="height" value="1106" />
   </component>
@@ -185,11 +90,6 @@
             <path>
               <item name="tools" type="b2602c69:ProjectViewProjectNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="notes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,29 +129,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="aligorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="aligorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="aligorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="arr" type="462c0819:PsiDirectoryNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,13 +142,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1658912331485" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1658718191865" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -285,65 +159,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompareArr">
-    <configuration name="CompareArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aligorithm.datastructure.arr.CompareArr" />
+  <component name="RunManager">
+    <configuration name="ToUpperCaseEmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasic.tool.ToUpperCaseEmp" />
       <module name="tools" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aligorithm.datastructure.arr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aligorithm.datastructure.arr.DynamicArr" />
-      <module name="tools" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aligorithm.datastructure.arr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IndexArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aligorithm.datastructure.arr.IndexArr" />
-      <module name="tools" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aligorithm.datastructure.arr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandSorttool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aligorithm.datastructure.arr.RandSorttool" />
-      <module name="tools" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aligorithm.datastructure.arr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortBubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aligorithm.datastructure.arr.SortBubble" />
-      <module name="tools" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aligorithm.datastructure.arr.*" />
+          <option name="PATTERN" value="com.javabasic.tool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,11 +175,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompareArr" />
-        <item itemvalue="Application.RandSorttool" />
-        <item itemvalue="Application.SortBubble" />
-        <item itemvalue="Application.DynamicArr" />
-        <item itemvalue="Application.IndexArr" />
+        <item itemvalue="Application.ToUpperCaseEmp" />
       </list>
     </recent_temporary>
   </component>
@@ -372,28 +190,18 @@
       <option name="presentableId" value="Default" />
       <updated>1658469279638</updated>
       <workItem from="1658469285614" duration="1535000" />
-      <workItem from="1658471018641" duration="18042000" />
-      <workItem from="1658905854466" duration="4601000" />
+      <workItem from="1658471018641" duration="7367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24178000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="9041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="379" y="0" width="1260" height="737" extended-state="0" />
+    <frame x="173" y="0" width="1260" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579035" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,17 +210,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49500832" visible="true" weight="0.29948366" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.497979" weight="0.39963505" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3012939" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.497979" weight="0.32846716" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4987874" weight="0.5930657" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49584025" weight="0.30981067" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5049917" side_tool="true" visible="true" weight="0.29948366" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.497979" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49251246" visible="true" weight="0.4888124" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,14 +247,6 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
             </State>
           </value>
         </entry>
@@ -467,225 +267,45 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java</url>
-          <line>9</line>
-          <properties class="com.aligorithm.datastructure.arr.IndexArr" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java</url>
-          <line>15</line>
-          <properties class="com.aligorithm.datastructure.arr.IndexArr" method="IndexSearch">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/tool/ToUpper.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state>
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/tool/ToUpperCaseEmp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="220">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="860">
-            <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+          <first_editor relative-caret-position="146">
+            <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/basic/Narcissistic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/basic/JudgeNarcissistic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/basic/Shuixian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/ArrayMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversStaticArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/StaticArrBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/TraversArraySimp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/GuessAnumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/DynamicArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/SortBubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/RandSorttool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/CompareArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>tools</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
