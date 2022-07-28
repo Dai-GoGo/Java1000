@@ -6,12 +6,12 @@
 主要是util包的一些方法使用学习。
 
 #### 软件架构
-Maven+SpringBoot
+JAVASE+Algorithm+DataBasic
 
 
 #### 安装教程
 
-1.  xxxx
+1.  yijin 
 2.  xxxx
 3.  xxxx
 
