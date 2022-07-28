@@ -8,10 +8,10 @@ package com.javabasic.flowcontrol;
  */
 public class WhileInfinity {
     //死循环
-    public static void main(String[] args) {
-        条件1
-        while (永远满足条件1的条件){
-            <操作>;
-        }
-    }
+//    public static void main(String[] args) {
+////        条件1
+////        while (永远满足条件1的条件){
+////            <操作>;
+////        }
+////    }
 }
