@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cb40b19-f57c-4011-835f-1ac0e8a7fbc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/interfapi/Demo01/PingpongMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5cb40b19-f57c-4011-835f-1ac0e8a7fbc5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/Demo01/SportMan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/Demo02/People.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,71 +39,77 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/OnEarth.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/Demo02/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="115">
+              <caret line="9" column="21" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/OnWater.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/PrintMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/OnAir.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/Attack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/Tyke.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="80">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/Test01.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/OddEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/AddMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-82">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/accumulation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/MaxNumArr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/Demo02/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/CheckCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="21" selection-end-line="14" />
+            <state relative-caret-position="-380">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/utilDemo/ScannerDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -155,12 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/MultiIBranchIf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/IfDemo01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/NullException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/SwitchDemo01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/TheSwitch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/ArrEnhanceFor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/ForSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/ForArrPlus.java" />
@@ -206,6 +194,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/Attack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/Tyke.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oop/interfapi/DemoG1/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/method/PrintMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/method/OddEven.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/method/AddMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/method/accumulation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/method/MaxNumArr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javabasic/method/CheckCode.java" />
       </list>
     </option>
   </component>
@@ -223,10 +217,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="478" />
-    <option name="y" value="97" />
+    <option name="x" value="162" />
+    <option name="y" value="561" />
     <option name="width" value="1676" />
-    <option name="height" value="812" />
+    <option name="height" value="782" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -283,7 +277,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tools" type="b2602c69:ProjectViewProjectNode" />
@@ -293,40 +297,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="interfapi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="interfapi" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="interfapi" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="interfapi" type="462c0819:PsiDirectoryNode" />
-              <item name="DemoG1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tools" type="b2602c69:ProjectViewProjectNode" />
@@ -348,7 +318,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659351128720" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659434351179" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -367,13 +337,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test01 (1)">
-    <configuration name="ArrayDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utilDemo.ArrayDemo01" />
+  <component name="RunManager" selected="Application.CheckCode">
+    <configuration name="AddMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasic.method.AddMethod" />
       <module name="tools" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.utilDemo.*" />
+          <option name="PATTERN" value="com.javabasic.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMethodDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oop.Generic.GenericMethodDemo1" />
+    <configuration name="CheckCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasic.method.CheckCode" />
       <module name="tools" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oop.Generic.*" />
+          <option name="PATTERN" value="com.javabasic.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,12 +364,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oop.interfapi.DemoG1.Test01" />
+    <configuration name="MaxNumArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasic.method.MaxNumArr" />
       <module name="tools" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oop.interfapi.DemoG1.*" />
+          <option name="PATTERN" value="com.javabasic.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +377,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oop.interfapi.Demo02.Test01" />
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasic.method.OddEven" />
       <module name="tools" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oop.interfapi.Demo02.*" />
+          <option name="PATTERN" value="com.javabasic.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +390,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oop.interfapi.Demo01.TestDemo01" />
+    <configuration name="accumulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasic.method.accumulation" />
       <module name="tools" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oop.interfapi.Demo01.*" />
+          <option name="PATTERN" value="com.javabasic.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,11 +405,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test01 (1)" />
-        <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.TestDemo01" />
-        <item itemvalue="Application.ArrayDemo01" />
-        <item itemvalue="Application.GenericMethodDemo1" />
+        <item itemvalue="Application.CheckCode" />
+        <item itemvalue="Application.MaxNumArr" />
+        <item itemvalue="Application.accumulation" />
+        <item itemvalue="Application.AddMethod" />
+        <item itemvalue="Application.OddEven" />
       </list>
     </recent_temporary>
   </component>
@@ -458,12 +428,12 @@
       <workItem from="1659057100967" duration="4243000" />
       <workItem from="1659078099505" duration="353000" />
       <workItem from="1659078775452" duration="9503000" />
-      <workItem from="1659338927669" duration="12032000" />
+      <workItem from="1659338927669" duration="19250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52991000" />
+    <option name="totallyTimeSpent" value="60209000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,28 +445,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="319" y="65" width="1117" height="541" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31161472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26677445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.32846716" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" visible="true" weight="0.41558442" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497979" visible="true" weight="0.2919708" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995958" weight="0.39247313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" weight="0.32664233" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" weight="0.32467532" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4890865" weight="0.26277372" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4890865" weight="0.26233765" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5109135" side_tool="true" weight="0.5182482" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4987874" weight="0.34106728" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4987874" weight="0.33941606" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49916804" weight="0.4954296" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -573,51 +544,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/tool/ToUpperCaseEmp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aligorithm/datastructure/arr/IndexArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/MultiIBranchIf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/flowcontrol/IfDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-747">
@@ -811,13 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/utilDemo/ScannerDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/Demo01/TestDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -931,8 +850,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oop/interfapi/Demo02/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="115">
           <caret line="9" column="21" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/PrintMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/utilDemo/ScannerDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/OddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/AddMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/accumulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/MaxNumArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javabasic/method/CheckCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
         </state>
       </provider>
     </entry>
