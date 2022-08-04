@@ -9,10 +9,11 @@ package com.oop.interfapi.Demo02;
 public class People {
     private String name;
     private int age;
+
     /*
-    *查看课表方法
-    */
-    public void querryCourse(){
+     *查看课表方法
+     */
+    public void querryCourse() {
         System.out.println("正在查看课表ing~~~~");
     }
 
